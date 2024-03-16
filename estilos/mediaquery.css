@@ -21,7 +21,9 @@
     width: 70%;
   }
 
-  div#formulário > h1
+  div.campo > input {
+    transform: translateY(-11px);
+  }
 }
 
 @media screen and (min-width: 992px) {
