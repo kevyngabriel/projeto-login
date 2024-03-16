@@ -42,7 +42,10 @@ section#login {
   width: 250px;
   height: 500px;
   border-radius: 20px;
-  box-shadow: 0px 0px 5px #d9bca39c;
+  box-shadow: 0px 0px 12px #d9bca394;
+
+  transition: width 0.3s, heigth 0.3s;
+  transition-timing-function: ease;
 }
 
 section#login > div#imagem {
