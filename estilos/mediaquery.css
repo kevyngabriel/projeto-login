@@ -20,6 +20,8 @@
     float: right;
     width: 70%;
   }
+
+  div#formulário > h1
 }
 
 @media screen and (min-width: 992px) {
